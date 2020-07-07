@@ -36,8 +36,5 @@ else:
     print("la raiz de ",segundo,"es ",raiz2)
 
 print ("esto es una prueba de version")
-
-///  "no se si esto sea real"
-
-    
+  
 
