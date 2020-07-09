@@ -35,6 +35,6 @@ else:
     raiz2=segundo**0.5
     print("la raiz de ",segundo,"es ",raiz2)
 
-print ("esto es una prueba de version")
+print ("esto es una prueba de version de prueba")
   
 
